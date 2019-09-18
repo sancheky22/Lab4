@@ -151,11 +151,11 @@
                 android:layout_weight="0.5" />
 
             <Button
-                android:id="@+id/extinguish"
+                android:id="@+id/blowOut"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="EXTINGUISH" />
+                android:text="BLOWOUT" />
 
             <Space
                 android:layout_width="match_parent"
